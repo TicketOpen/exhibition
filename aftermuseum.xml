@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>널 위한 문화예술 ─ 전시</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 02 Dec 2021 16:51:11 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[한정 수량] 빛의 벙커- 모네, 르누아르...샤갈]]></title>
+            <link>https://www.sixshop.com/aftermuseum/product/60a74c92-d78c-4a39-a1a5-ecf39e4439f9</link>
+            <guid>https://www.sixshop.com/aftermuseum/product/60a74c92-d78c-4a39-a1a5-ecf39e4439f9</guid>
+            <pubDate>Thu, 02 Dec 2021 16:51:07 GMT</pubDate>
+            <content:encoded><![CDATA[15,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1638339042316_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[한정 수량] 살바도르 달리 원화전]]></title>
+            <link>https://www.sixshop.com/aftermuseum/product/292c4a07-9647-4fba-9112-d6c24779380b</link>
+            <guid>https://www.sixshop.com/aftermuseum/product/292c4a07-9647-4fba-9112-d6c24779380b</guid>
+            <pubDate>Thu, 02 Dec 2021 16:51:07 GMT</pubDate>
+            <content:encoded><![CDATA[14,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1638327385248_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[수량 한정] [최저가 30% 할인] 신비한장난감가게]]></title>
+            <link>https://www.sixshop.com/aftermuseum/product/e5b326ec-9096-4ea2-8567-16ae4cbfadf4</link>
+            <guid>https://www.sixshop.com/aftermuseum/product/e5b326ec-9096-4ea2-8567-16ae4cbfadf4</guid>
+            <pubDate>Thu, 02 Dec 2021 16:51:07 GMT</pubDate>
+            <content:encoded><![CDATA[8,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1635610844303_1000.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[최저가 할인] 프로필을 설정하세요]]></title>
+            <link>https://www.sixshop.com/aftermuseum/product/f2473153-3d59-486b-a8ea-1ff9c67301f9</link>
+            <guid>https://www.sixshop.com/aftermuseum/product/f2473153-3d59-486b-a8ea-1ff9c67301f9</guid>
+            <pubDate>Thu, 02 Dec 2021 16:51:07 GMT</pubDate>
+            <content:encoded><![CDATA[3,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1634020615877_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[500명 한정] [최저가 20% 할인] 비욘더로드]]></title>
+            <link>https://www.sixshop.com/aftermuseum/product/be2278d6-5bcc-431b-982b-06de9e54f916</link>
+            <guid>https://www.sixshop.com/aftermuseum/product/be2278d6-5bcc-431b-982b-06de9e54f916</guid>
+            <pubDate>Thu, 02 Dec 2021 16:51:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/aftermuseum/product/be2278d6-5bcc-431b-982b-06de9e54f916" alt="500명 한정 최저가 20 할인 비욘더로드"><div class="thumbDiv"><div class="thumb img" imgsrc="/uploadedFiles/135012/product/image_1632444915496.jpg" style="width:100%;background-image:url(https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1632444915496_1000.jpg)"></div><div class="shopProductBackground"></div><div class="badgeWrapper"><div class="soldOutBadge badge"><span>Sold Out</span></div></div></div><div class="shopProductNameAndPriceDiv"><div class="shopProductNameAndPriceContent"><div class="shopProductNameAndPrice"><div class="shopProduct productName">[500명 한정] [최저가 20% 할인] 비욘더로드</div><div class="shopProduct price"><span class="productPriceSpan">20,000원</span></div></div></div></div></a>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1632444915496_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[200명 한정] [최저가 20% 할인] 앨리스 달튼 브라운]]></title>
+            <link>https://www.sixshop.com/aftermuseum/product/1</link>
+            <guid>https://www.sixshop.com/aftermuseum/product/1</guid>
+            <pubDate>Thu, 02 Dec 2021 16:51:07 GMT</pubDate>
+            <content:encoded><![CDATA[14,400원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1629532840130_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
