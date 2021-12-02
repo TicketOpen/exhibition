@@ -7,3 +7,13 @@ linkSelector = "a"
 contentSelector = "div.shopProduct.price span:nth-child(1)"
 imageSelector = "div.thumbDiv div.thumb.img"
 waitUntil = "networkidle"
+
+[hyundaicard_dive_storage]
+title = "현대카드 DIVE ─ STORAGE"
+url = "https://dive.hyundaicard.com/web/culture/culture.hdc?showType=list&filterPlaceSpace=5"
+entrySelector = "section.box-section.now-wrap div.invisual ul.view-type-thumb li.view-item "
+titleSelector = "div.cnt p.tit"
+linkSelector = "a"
+contentSelector = "div.cnt p.timeline span.day"
+imageSelector = "div.thum img"
+waitUntil = "networkidle"
