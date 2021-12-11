@@ -19,13 +19,13 @@ imageSelector = "div.imgarea img"
 waitUntil = "networkidle"
 
 [groundseesaw_myeongdong]
-title = "그라운드 시소 ─ EXHIBITIONS ─ 서촌"
+title = "그라운드 시소 ─ EXHIBITIONS ─ 명동"
 url = "http://www.groundseesaw.co.kr/m11.php?cate=003"
-entrySelector = "div.section1 div.conwrap"
-titleSelector = "div.titarea h5"
-linkSelector = "div.titarea a"
-contentSelector = "div.infoarea"
-imageSelector = "div.imgarea img"
+entrySelector = "div.innerwrap ul li"
+titleSelector = "div.sbj"
+linkSelector = "a"
+contentSelector = "div.date"
+imageSelector = "div.thumb img"
 waitUntil = "networkidle"
 
 [aftermuseum_exhibition]
