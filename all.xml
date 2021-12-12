@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Dec 2021 17:16:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Dec 2021 18:11:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,6 +64,54 @@
             <pubDate>Sat, 11 Dec 2021 22:23:24 GMT</pubDate>
             <content:encoded><![CDATA[2021-06-04 ~ 2022-01-31]]></content:encoded>
             <enclosure url="http://www.groundseesaw.co.kr/data/exhibition/file1_1637561251d686ptjdox.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[한정 수량] 빛의 벙커- 모네, 르누아르...샤갈 (널 위한 문화예술 ─ 전시)]]></title>
+            <link>https://www.sixshop.com/aftermuseum/product/60a74c92-d78c-4a39-a1a5-ecf39e4439f9</link>
+            <guid>https://www.sixshop.com/aftermuseum/product/60a74c92-d78c-4a39-a1a5-ecf39e4439f9</guid>
+            <pubDate>Sun, 12 Dec 2021 18:11:32 GMT</pubDate>
+            <content:encoded><![CDATA[15,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1638339042316_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[300매 한정 수량] 살바도르 달리 원화전 (널 위한 문화예술 ─ 전시)]]></title>
+            <link>https://www.sixshop.com/aftermuseum/product/292c4a07-9647-4fba-9112-d6c24779380b</link>
+            <guid>https://www.sixshop.com/aftermuseum/product/292c4a07-9647-4fba-9112-d6c24779380b</guid>
+            <pubDate>Sun, 12 Dec 2021 18:11:32 GMT</pubDate>
+            <content:encoded><![CDATA[14,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1638327385248_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[수량 한정] [최저가 30% 할인] 신비한장난감가게 (널 위한 문화예술 ─ 전시)]]></title>
+            <link>https://www.sixshop.com/aftermuseum/product/e5b326ec-9096-4ea2-8567-16ae4cbfadf4</link>
+            <guid>https://www.sixshop.com/aftermuseum/product/e5b326ec-9096-4ea2-8567-16ae4cbfadf4</guid>
+            <pubDate>Sun, 12 Dec 2021 18:11:32 GMT</pubDate>
+            <content:encoded><![CDATA[8,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1635610844303_1000.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[최저가 할인] 프로필을 설정하세요 (널 위한 문화예술 ─ 전시)]]></title>
+            <link>https://www.sixshop.com/aftermuseum/product/f2473153-3d59-486b-a8ea-1ff9c67301f9</link>
+            <guid>https://www.sixshop.com/aftermuseum/product/f2473153-3d59-486b-a8ea-1ff9c67301f9</guid>
+            <pubDate>Sun, 12 Dec 2021 18:11:32 GMT</pubDate>
+            <content:encoded><![CDATA[3,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1634020615877_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[500명 한정] [최저가 20% 할인] 비욘더로드 (널 위한 문화예술 ─ 전시)]]></title>
+            <link>https://www.sixshop.com/aftermuseum/product/be2278d6-5bcc-431b-982b-06de9e54f916</link>
+            <guid>https://www.sixshop.com/aftermuseum/product/be2278d6-5bcc-431b-982b-06de9e54f916</guid>
+            <pubDate>Sun, 12 Dec 2021 18:11:32 GMT</pubDate>
+            <content:encoded><![CDATA[20,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1632444915496_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[200명 한정] [최저가 20% 할인] 앨리스 달튼 브라운 (널 위한 문화예술 ─ 전시)]]></title>
+            <link>https://www.sixshop.com/aftermuseum/product/1</link>
+            <guid>https://www.sixshop.com/aftermuseum/product/1</guid>
+            <pubDate>Sun, 12 Dec 2021 18:11:32 GMT</pubDate>
+            <content:encoded><![CDATA[14,400원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1629532840130_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[따뜻하게  채워본  연말 (현대카드 DIVE ─ STORAGE)]]></title>
