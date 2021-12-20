@@ -4,7 +4,7 @@
         <title>널 위한 문화예술 ─ 전시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 17:20:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 18:12:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,22 +38,6 @@
             <pubDate>Sun, 12 Dec 2021 18:11:32 GMT</pubDate>
             <content:encoded><![CDATA[3,000원]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1634020615877_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[500명 한정] [최저가 20% 할인] 비욘더로드]]></title>
-            <link>https://www.sixshop.com/aftermuseum/product/be2278d6-5bcc-431b-982b-06de9e54f916</link>
-            <guid>https://www.sixshop.com/aftermuseum/product/be2278d6-5bcc-431b-982b-06de9e54f916</guid>
-            <pubDate>Sun, 12 Dec 2021 18:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[20,000원]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1632444915496_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[200명 한정] [최저가 20% 할인] 앨리스 달튼 브라운]]></title>
-            <link>https://www.sixshop.com/aftermuseum/product/1</link>
-            <guid>https://www.sixshop.com/aftermuseum/product/1</guid>
-            <pubDate>Sun, 12 Dec 2021 18:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[14,400원]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1629532840130_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
