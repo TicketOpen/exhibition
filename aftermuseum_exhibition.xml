@@ -4,9 +4,17 @@
         <title>널 위한 문화예술 ─ 전시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 09:10:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 10:11:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[12월 25일 저녁 10시 오픈합니다]]></title>
+            <link>https://www.sixshop.com/aftermuseum/product/Matisse</link>
+            <guid>https://www.sixshop.com/aftermuseum/product/Matisse</guid>
+            <pubDate>Wed, 22 Dec 2021 10:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[0원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1640167850394_1000.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[한정 수량] 빛의 벙커- 모네, 르누아르...샤갈]]></title>
             <link>https://www.sixshop.com/aftermuseum/product/60a74c92-d78c-4a39-a1a5-ecf39e4439f9</link>
@@ -30,14 +38,6 @@
             <pubDate>Sun, 12 Dec 2021 18:11:32 GMT</pubDate>
             <content:encoded><![CDATA[8,000원]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1635610844303_1000.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[최저가 할인] 프로필을 설정하세요]]></title>
-            <link>https://www.sixshop.com/aftermuseum/product/f2473153-3d59-486b-a8ea-1ff9c67301f9</link>
-            <guid>https://www.sixshop.com/aftermuseum/product/f2473153-3d59-486b-a8ea-1ff9c67301f9</guid>
-            <pubDate>Sun, 12 Dec 2021 18:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[3,000원]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1634020615877_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
