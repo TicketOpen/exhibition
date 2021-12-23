@@ -1,32 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>그라운드 시소 ─ EXHIBITIONS ─ 서촌</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 09:10:42 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[요시고 사진전: 따뜻한 휴일의 기록]]></title>
-            <link>https://booking.naver.com/booking/5/bizes/533231</link>
-            <guid>https://booking.naver.com/booking/5/bizes/533231</guid>
-            <pubDate>Thu, 23 Dec 2021 04:12:36 GMT</pubDate>
-            <content:encoded><![CDATA[<dl>
-								<dt>전시기간</dt>
-								<dd>2021-06-23 ~ 2022-03-01</dd>
-							</dl>
-																			<dl>
-								<dt>관람시간</dt>
-								<dd>
-									오전 10시 ~ 오후 7시 (입장마감 : 오후 6시)<br>
-*매월 첫째 주 월요일 휴관 | 공휴일 정상개관								</dd>
-							</dl>
-																									<dl>
-								<dt>전시문의</dt>
-								<dd>1522-1796</dd>
-							</dl>]]></content:encoded>
-            <enclosure url="http://www.groundseesaw.co.kr/data/exhibition/file1_1636088695zq2fzwrg3b.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://www.groundseesaw.co.kr/m11.php?cate=001</id>
+    <title>그라운드 시소 ─ EXHIBITIONS ─ 서촌</title>
+    <updated>2021-12-23T10:11:06.776Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>http://www.groundseesaw.co.kr/favicon.ico</icon>
+</feed>
