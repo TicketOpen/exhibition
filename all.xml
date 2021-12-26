@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Dec 2021 08:12:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Dec 2021 09:09:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -66,6 +66,14 @@
             <enclosure url="http://www.groundseesaw.co.kr/data/exhibition/file1_1637561251d686ptjdox.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[최저가할인] 앙리 마티스: 라이프 앤 조이 전시 (널 위한 문화예술 ─ 전시)]]></title>
+            <link>https://www.sixshop.com/aftermuseum/product/Matisse-10</link>
+            <guid>https://www.sixshop.com/aftermuseum/product/Matisse-10</guid>
+            <pubDate>Sun, 26 Dec 2021 09:09:36 GMT</pubDate>
+            <content:encoded><![CDATA[16,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1640509482464_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[널위한99티켓] 앙리 마티스: 라이프 앤 조이 전시 (널 위한 문화예술 ─ 전시)]]></title>
             <link>https://www.sixshop.com/aftermuseum/product/Matisse</link>
             <guid>https://www.sixshop.com/aftermuseum/product/Matisse</guid>
@@ -88,14 +96,6 @@
             <pubDate>Sun, 12 Dec 2021 18:11:32 GMT</pubDate>
             <content:encoded><![CDATA[14,000원]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1638327385248_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[수량 한정] [최저가 30% 할인] 신비한장난감가게 (널 위한 문화예술 ─ 전시)]]></title>
-            <link>https://www.sixshop.com/aftermuseum/product/e5b326ec-9096-4ea2-8567-16ae4cbfadf4</link>
-            <guid>https://www.sixshop.com/aftermuseum/product/e5b326ec-9096-4ea2-8567-16ae4cbfadf4</guid>
-            <pubDate>Sun, 12 Dec 2021 18:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[8,000원]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1635610844303_1000.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[따뜻하게  채워본  연말 (현대카드 DIVE ─ STORAGE)]]></title>
