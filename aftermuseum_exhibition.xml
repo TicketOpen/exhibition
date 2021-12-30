@@ -4,9 +4,17 @@
         <title>널 위한 문화예술 ─ 전시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 06:12:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 07:10:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[널 위한 99티켓] 플라워 바이 네이키드의 사본]]></title>
+            <link>https://www.sixshop.com/aftermuseum/product/FBN-111-13</link>
+            <guid>https://www.sixshop.com/aftermuseum/product/FBN-111-13</guid>
+            <pubDate>Thu, 30 Dec 2021 07:10:08 GMT</pubDate>
+            <content:encoded><![CDATA[14,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1640761808460_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[널 위한 99티켓] 플라워 바이 네이키드]]></title>
             <link>https://www.sixshop.com/aftermuseum/product/FBN-111</link>
@@ -30,14 +38,6 @@
             <pubDate>Wed, 22 Dec 2021 10:11:30 GMT</pubDate>
             <content:encoded><![CDATA[16,000원]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1640421569479_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[한정 수량] 빛의 벙커- 모네, 르누아르...샤갈]]></title>
-            <link>https://www.sixshop.com/aftermuseum/product/60a74c92-d78c-4a39-a1a5-ecf39e4439f9</link>
-            <guid>https://www.sixshop.com/aftermuseum/product/60a74c92-d78c-4a39-a1a5-ecf39e4439f9</guid>
-            <pubDate>Sun, 12 Dec 2021 18:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1638339042316_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
