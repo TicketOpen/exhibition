@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ STORAGE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 07:10:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 09:11:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[토일렛페이퍼 파라다이스]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 02 Dec 2021 17:28:27 GMT</pubDate>
+            <content:encoded><![CDATA[01/06(목) ~ 02/06(일)]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a6a83f25f1794ca6b3dd97668e965f77.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[따뜻하게  채워본  연말]]></title>
             <link>javascript:;</link>
@@ -30,14 +38,6 @@
             <pubDate>Thu, 02 Dec 2021 17:28:27 GMT</pubDate>
             <content:encoded><![CDATA[11/05(금) ~ 11/30(화)]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9a4f2552e13542a99d463e97995fb2e8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일상을 풍요롭게]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 02 Dec 2021 17:28:27 GMT</pubDate>
-            <content:encoded><![CDATA[11/05(금) ~ 11/30(화)]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2412b971ed3f4efab9e4cd94e10a9be3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
