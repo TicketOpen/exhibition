@@ -1,43 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>널 위한 문화예술 ─ 전시</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 02:07:54 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[최저가 할인] 플라워 바이 네이키드]]></title>
-            <link>https://www.sixshop.com/aftermuseum/product/FBN-111-13</link>
-            <guid>https://www.sixshop.com/aftermuseum/product/FBN-111-13</guid>
-            <pubDate>Thu, 30 Dec 2021 07:10:08 GMT</pubDate>
-            <content:encoded><![CDATA[14,000원]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1640848468923_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[널 위한 99티켓] 플라워 바이 네이키드]]></title>
-            <link>https://www.sixshop.com/aftermuseum/product/FBN-111</link>
-            <guid>https://www.sixshop.com/aftermuseum/product/FBN-111</guid>
-            <pubDate>Wed, 29 Dec 2021 08:12:28 GMT</pubDate>
-            <content:encoded><![CDATA[14,000원]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1640761808460_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[최저가 할인] 앙리 마티스: 라이프 앤 조이 전시]]></title>
-            <link>https://www.sixshop.com/aftermuseum/product/Matisse-10</link>
-            <guid>https://www.sixshop.com/aftermuseum/product/Matisse-10</guid>
-            <pubDate>Sun, 26 Dec 2021 09:09:36 GMT</pubDate>
-            <content:encoded><![CDATA[16,000원]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1640509482464_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[널 위한 99티켓] 앙리 마티스: 라이프 앤 조이 전시]]></title>
-            <link>https://www.sixshop.com/aftermuseum/product/Matisse</link>
-            <guid>https://www.sixshop.com/aftermuseum/product/Matisse</guid>
-            <pubDate>Wed, 22 Dec 2021 10:11:30 GMT</pubDate>
-            <content:encoded><![CDATA[16,000원]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1640421569479_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.sixshop.com/aftermuseum/exhibition</id>
+    <title>널 위한 문화예술 ─ 전시</title>
+    <updated>2022-01-06T03:13:37.549Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.sixshop.com/aftermuseum/favicon.ico</icon>
+</feed>
