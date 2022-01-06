@@ -4,9 +4,17 @@
         <title>널 위한 문화예술 ─ 전시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 09:11:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 10:11:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[널 위한 99티켓] 오늘은 월차]]></title>
+            <link>https://www.sixshop.com/aftermuseum/product/e6a4a43f-6ce0-45bd-a346-a9e0cc117dee</link>
+            <guid>https://www.sixshop.com/aftermuseum/product/e6a4a43f-6ce0-45bd-a346-a9e0cc117dee</guid>
+            <pubDate>Thu, 06 Jan 2022 10:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[8,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1641460670959_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[최저가 할인] 플라워 바이 네이키드]]></title>
             <link>https://www.sixshop.com/aftermuseum/product/FBN-111-13</link>
@@ -30,14 +38,6 @@
             <pubDate>Thu, 06 Jan 2022 05:12:13 GMT</pubDate>
             <content:encoded><![CDATA[16,000원]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1640509482464_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[널 위한 99티켓] 앙리 마티스: 라이프 앤 조이 전시]]></title>
-            <link>https://www.sixshop.com/aftermuseum/product/Matisse</link>
-            <guid>https://www.sixshop.com/aftermuseum/product/Matisse</guid>
-            <pubDate>Thu, 06 Jan 2022 05:12:13 GMT</pubDate>
-            <content:encoded><![CDATA[16,000원]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1640421569479_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
