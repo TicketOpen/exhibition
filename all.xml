@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 04:13:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 05:12:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -98,7 +98,7 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1640509482464_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[토일렛페이퍼 파라다이스 (현대카드 DIVE ─ STORAGE)]]></title>
+            <title><![CDATA[토일렛페이퍼  파라다이스 (현대카드 DIVE ─ STORAGE)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 02 Dec 2021 17:28:27 GMT</pubDate>
