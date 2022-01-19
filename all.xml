@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 00:32:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 01:50:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -106,28 +106,28 @@
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a6a83f25f1794ca6b3dd97668e965f77.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[새로운  마음으로  시작 (현대카드 DIVE ─ STORAGE)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 02 Dec 2021 17:28:27 GMT</pubDate>
+            <content:encoded><![CDATA[01/01(토) ~ 01/31(월)]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/197b1be7232f4db0aa1f39905f40a1a9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DIVE NEW YEAR! (현대카드 DIVE ─ STORAGE)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 02 Dec 2021 17:28:27 GMT</pubDate>
+            <content:encoded><![CDATA[01/01(토) ~ 01/31(월)]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6d805745dced42579ea273cb195da811.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[따뜻하게  채워본  연말 (현대카드 DIVE ─ STORAGE)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 02 Dec 2021 17:28:27 GMT</pubDate>
             <content:encoded><![CDATA[12/07(화) ~ 12/31(금)]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fe44428e5d9744dba207ceb75afcc7f0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연말 VIBE에 DIVE! (현대카드 DIVE ─ STORAGE)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 02 Dec 2021 17:28:27 GMT</pubDate>
-            <content:encoded><![CDATA[12/07(화) ~ 12/31(금)]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/61ca95fc4d7a4a00bfac084254d2c336.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[환절기 충전소 DIVE! (현대카드 DIVE ─ STORAGE)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 02 Dec 2021 17:28:27 GMT</pubDate>
-            <content:encoded><![CDATA[11/05(금) ~ 11/30(화)]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9a4f2552e13542a99d463e97995fb2e8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
