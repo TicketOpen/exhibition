@@ -4,9 +4,17 @@
         <title>널 위한 문화예술 ─ 전시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jan 2022 04:12:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jan 2022 05:09:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[널 위한 99티켓] 샤갈 특별전, 샤갈 앤 더 바이블]]></title>
+            <link>https://www.sixshop.com/aftermuseum/product/26f2b1b2-42c8-4e22-a020-e98e545b6bf8</link>
+            <guid>https://www.sixshop.com/aftermuseum/product/26f2b1b2-42c8-4e22-a020-e98e545b6bf8</guid>
+            <pubDate>Sat, 22 Jan 2022 05:08:46 GMT</pubDate>
+            <content:encoded><![CDATA[14,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1642827251323_1000.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[널 위한 99티켓] 오늘은 월차]]></title>
             <link>https://www.sixshop.com/aftermuseum/product/e6a4a43f-6ce0-45bd-a346-a9e0cc117dee</link>
@@ -30,14 +38,6 @@
             <pubDate>Sat, 15 Jan 2022 16:14:01 GMT</pubDate>
             <content:encoded><![CDATA[14,000원]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1640761808460_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[최저가 할인] 앙리 마티스: 라이프 앤 조이 전시]]></title>
-            <link>https://www.sixshop.com/aftermuseum/product/Matisse-10</link>
-            <guid>https://www.sixshop.com/aftermuseum/product/Matisse-10</guid>
-            <pubDate>Sat, 15 Jan 2022 16:14:01 GMT</pubDate>
-            <content:encoded><![CDATA[16,000원]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1640509482464_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
