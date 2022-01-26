@@ -4,7 +4,7 @@
         <title>그라운드 시소 ─ EXHIBITIONS ─ 서촌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 00:37:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 02:00:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,7 +14,7 @@
             <pubDate>Tue, 25 Jan 2022 14:09:47 GMT</pubDate>
             <content:encoded><![CDATA[<dl>
 								<dt>전시기간</dt>
-								<dd>2021-06-23 ~ 2022-03-01</dd>
+								<dd>2021-06-23 ~ 2022-04-03</dd>
 							</dl>
 																			<dl>
 								<dt>관람시간</dt>
@@ -26,7 +26,7 @@
 								<dt>전시문의</dt>
 								<dd>1522-1796</dd>
 							</dl>]]></content:encoded>
-            <enclosure url="http://www.groundseesaw.co.kr/data/exhibition/file1_1636088695zq2fzwrg3b.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.groundseesaw.co.kr/data/exhibition/file1_1643162091axh0atqw5j.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
