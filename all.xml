@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 00:32:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 01:53:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -66,6 +66,14 @@
             <enclosure url="http://www.groundseesaw.co.kr/data/exhibition/file1_1643174305meez9r68wl.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[널 위한 99티켓] 오늘은 월차 (널 위한 문화예술 ─ 전시)]]></title>
+            <link>https://www.sixshop.com/aftermuseum/product/e6a4a43f-6ce0-45bd-a346-a9e0cc117dee</link>
+            <guid>https://www.sixshop.com/aftermuseum/product/e6a4a43f-6ce0-45bd-a346-a9e0cc117dee</guid>
+            <pubDate>Thu, 27 Jan 2022 00:32:27 GMT</pubDate>
+            <content:encoded><![CDATA[8,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1641460670959_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[최저가할인] 샤갈 특별전, 샤갈 앤 더 바이블 (널 위한 문화예술 ─ 전시)]]></title>
             <link>https://www.sixshop.com/aftermuseum/product/26f2b1b2-42c8-4e22-a020-e98e545b6bf8-16</link>
             <guid>https://www.sixshop.com/aftermuseum/product/26f2b1b2-42c8-4e22-a020-e98e545b6bf8-16</guid>
@@ -82,14 +90,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1642827251323_1000.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[널 위한 99티켓] 오늘은 월차 (널 위한 문화예술 ─ 전시)]]></title>
-            <link>https://www.sixshop.com/aftermuseum/product/e6a4a43f-6ce0-45bd-a346-a9e0cc117dee</link>
-            <guid>https://www.sixshop.com/aftermuseum/product/e6a4a43f-6ce0-45bd-a346-a9e0cc117dee</guid>
-            <pubDate>Thu, 27 Jan 2022 00:32:27 GMT</pubDate>
-            <content:encoded><![CDATA[8,000원]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1641460670959_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[최저가 할인] 플라워 바이 네이키드 (널 위한 문화예술 ─ 전시)]]></title>
             <link>https://www.sixshop.com/aftermuseum/product/FBN-111-13</link>
             <guid>https://www.sixshop.com/aftermuseum/product/FBN-111-13</guid>
@@ -102,7 +102,7 @@
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 02 Dec 2021 17:28:27 GMT</pubDate>
-            <content:encoded><![CDATA[01/06(목) ~ 02/06(일)]]></content:encoded>
+            <content:encoded><![CDATA[01/06(목) ~ 03/20(일)]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a6a83f25f1794ca6b3dd97668e965f77.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
