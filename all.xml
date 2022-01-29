@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jan 2022 14:08:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jan 2022 15:09:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -66,20 +66,20 @@
             <enclosure url="http://www.groundseesaw.co.kr/data/exhibition/file1_1643174305meez9r68wl.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[널 위한 99티켓] 오늘은 월차 (널 위한 문화예술 ─ 전시)]]></title>
-            <link>https://www.sixshop.com/aftermuseum/product/e6a4a43f-6ce0-45bd-a346-a9e0cc117dee</link>
-            <guid>https://www.sixshop.com/aftermuseum/product/e6a4a43f-6ce0-45bd-a346-a9e0cc117dee</guid>
-            <pubDate>Thu, 27 Jan 2022 00:32:27 GMT</pubDate>
-            <content:encoded><![CDATA[8,000원]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1641460670959_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[최저가할인] 샤갈 특별전, 샤갈 앤 더 바이블 (널 위한 문화예술 ─ 전시)]]></title>
             <link>https://www.sixshop.com/aftermuseum/product/26f2b1b2-42c8-4e22-a020-e98e545b6bf8-16</link>
             <guid>https://www.sixshop.com/aftermuseum/product/26f2b1b2-42c8-4e22-a020-e98e545b6bf8-16</guid>
             <pubDate>Thu, 27 Jan 2022 00:32:27 GMT</pubDate>
             <content:encoded><![CDATA[14,000원]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1643072978401_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[널 위한 99티켓] 오늘은 월차 (널 위한 문화예술 ─ 전시)]]></title>
+            <link>https://www.sixshop.com/aftermuseum/product/e6a4a43f-6ce0-45bd-a346-a9e0cc117dee</link>
+            <guid>https://www.sixshop.com/aftermuseum/product/e6a4a43f-6ce0-45bd-a346-a9e0cc117dee</guid>
+            <pubDate>Thu, 27 Jan 2022 00:32:27 GMT</pubDate>
+            <content:encoded><![CDATA[8,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1641460670959_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[널 위한 99티켓] 샤갈 특별전, 샤갈 앤 더 바이블 (널 위한 문화예술 ─ 전시)]]></title>
