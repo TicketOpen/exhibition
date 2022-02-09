@@ -1,32 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>그라운드 시소 ─ EXHIBITIONS ─ 성수</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 05:09:16 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[우연히 웨스 앤더슨: 어디에 있든, 영감은 당신 눈앞에 있다]]></title>
-            <link>https://tickets.interpark.com/goods/21010389</link>
-            <guid>https://tickets.interpark.com/goods/21010389</guid>
-            <pubDate>Tue, 08 Feb 2022 12:13:55 GMT</pubDate>
-            <content:encoded><![CDATA[<dl>
-								<dt>전시기간</dt>
-								<dd>2021-11-27 ~ 2022-06-06</dd>
-							</dl>
-																			<dl>
-								<dt>관람시간</dt>
-								<dd>
-									오전 10시 ~ 오후 7시 (입장마감 : 오후 6시)<br>
-*매월 첫째 주 월요일 휴관 | 공휴일 정상개관								</dd>
-							</dl>
-																									<dl>
-								<dt>전시문의</dt>
-								<dd>1522-1796</dd>
-							</dl>]]></content:encoded>
-            <enclosure url="http://www.groundseesaw.co.kr/data/exhibition/file1_1631759387esmpfzzov4.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://www.groundseesaw.co.kr/m11.php?cate=002</id>
+    <title>그라운드 시소 ─ EXHIBITIONS ─ 성수</title>
+    <updated>2022-02-09T06:12:37.872Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>http://www.groundseesaw.co.kr/favicon.ico</icon>
+</feed>
