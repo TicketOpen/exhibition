@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 16:13:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 17:13:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -74,14 +74,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1644401991164_1000.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[널위한99티켓] 칸딘스키, 말레비치 & 러시아 아방가르드 : 혁명의 예술 전 (널 위한 문화예술 ─ 전시)]]></title>
-            <link>https://www.sixshop.com/aftermuseum/product/KML-1</link>
-            <guid>https://www.sixshop.com/aftermuseum/product/KML-1</guid>
-            <pubDate>Wed, 09 Feb 2022 06:12:20 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1644401991164_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[최저가할인] 샤갈 특별전, 샤갈 앤 더 바이블 (널 위한 문화예술 ─ 전시)]]></title>
             <link>https://www.sixshop.com/aftermuseum/product/26f2b1b2-42c8-4e22-a020-e98e545b6bf8-16</link>
             <guid>https://www.sixshop.com/aftermuseum/product/26f2b1b2-42c8-4e22-a020-e98e545b6bf8-16</guid>
@@ -104,6 +96,14 @@
             <pubDate>Thu, 27 Jan 2022 00:32:27 GMT</pubDate>
             <content:encoded><![CDATA[8,000원]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1641460670959_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[널위한99티켓] 칸딘스키, 말레비치 & 러시아 아방가르드 : 혁명의 예술 전 (널 위한 문화예술 ─ 전시)]]></title>
+            <link>https://www.sixshop.com/aftermuseum/product/KML-1</link>
+            <guid>https://www.sixshop.com/aftermuseum/product/KML-1</guid>
+            <pubDate>Wed, 09 Feb 2022 06:12:20 GMT</pubDate>
+            <content:encoded><![CDATA[15,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1644401991164_1000.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[최저가 할인] 플라워 바이 네이키드 (널 위한 문화예술 ─ 전시)]]></title>
