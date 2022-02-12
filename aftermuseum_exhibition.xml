@@ -4,17 +4,9 @@
         <title>널 위한 문화예술 ─ 전시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Feb 2022 01:59:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 02:36:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[최저가 할인] 칸딘스키, 말레비치 & 러시아 아방가르드 : 혁명의 예술]]></title>
-            <link>https://www.sixshop.com/aftermuseum/product/KML-1-18</link>
-            <guid>https://www.sixshop.com/aftermuseum/product/KML-1-18</guid>
-            <pubDate>Wed, 09 Feb 2022 11:08:20 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1644401991164_1000.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[[최저가 할인] 샤갈 특별전, 샤갈 앤 더 바이블]]></title>
             <link>https://www.sixshop.com/aftermuseum/product/26f2b1b2-42c8-4e22-a020-e98e545b6bf8-16</link>
@@ -38,6 +30,14 @@
             <pubDate>Thu, 27 Jan 2022 00:32:27 GMT</pubDate>
             <content:encoded><![CDATA[8,000원]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1641460670959_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[최저가 할인] 칸딘스키, 말레비치 & 러시아 아방가르드 : 혁명의 예술]]></title>
+            <link>https://www.sixshop.com/aftermuseum/product/KML-1-18</link>
+            <guid>https://www.sixshop.com/aftermuseum/product/KML-1-18</guid>
+            <pubDate>Wed, 09 Feb 2022 11:08:20 GMT</pubDate>
+            <content:encoded><![CDATA[15,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1644401991164_1000.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[널 위한 99티켓] 칸딘스키, 말레비치 & 러시아 아방가르드 : 혁명의 예술 전]]></title>
