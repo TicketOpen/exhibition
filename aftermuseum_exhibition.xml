@@ -1,8 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.sixshop.com/aftermuseum/exhibition</id>
-    <title>널 위한 문화예술 ─ 전시</title>
-    <updated>2022-02-14T07:10:33.301Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.sixshop.com/aftermuseum/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>널 위한 문화예술 ─ 전시</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 14 Feb 2022 08:12:41 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[널 위한 99티켓] 칸딘스키, 말레비치 & 러시아 아방가르드 : 혁명의 예술 전]]></title>
+            <link>https://www.sixshop.com/aftermuseum/product/KML-1</link>
+            <guid>https://www.sixshop.com/aftermuseum/product/KML-1</guid>
+            <pubDate>Mon, 14 Feb 2022 08:12:19 GMT</pubDate>
+            <content:encoded><![CDATA[15,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1644401991164_1000.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[최저가 할인] 샤갈 특별전, 샤갈 앤 더 바이블]]></title>
+            <link>https://www.sixshop.com/aftermuseum/product/26f2b1b2-42c8-4e22-a020-e98e545b6bf8-16</link>
+            <guid>https://www.sixshop.com/aftermuseum/product/26f2b1b2-42c8-4e22-a020-e98e545b6bf8-16</guid>
+            <pubDate>Mon, 14 Feb 2022 08:12:19 GMT</pubDate>
+            <content:encoded><![CDATA[14,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1643072978401_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[널 위한 99티켓] 샤갈 특별전, 샤갈 앤 더 바이블]]></title>
+            <link>https://www.sixshop.com/aftermuseum/product/26f2b1b2-42c8-4e22-a020-e98e545b6bf8</link>
+            <guid>https://www.sixshop.com/aftermuseum/product/26f2b1b2-42c8-4e22-a020-e98e545b6bf8</guid>
+            <pubDate>Mon, 14 Feb 2022 08:12:19 GMT</pubDate>
+            <content:encoded><![CDATA[14,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1642827251323_1000.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[널 위한 99티켓] 오늘은 월차]]></title>
+            <link>https://www.sixshop.com/aftermuseum/product/e6a4a43f-6ce0-45bd-a346-a9e0cc117dee</link>
+            <guid>https://www.sixshop.com/aftermuseum/product/e6a4a43f-6ce0-45bd-a346-a9e0cc117dee</guid>
+            <pubDate>Mon, 14 Feb 2022 08:12:19 GMT</pubDate>
+            <content:encoded><![CDATA[8,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1641460670959_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[최저가 할인] 칸딘스키, 말레비치 & 러시아 아방가르드 : 혁명의 예술]]></title>
+            <link>https://www.sixshop.com/aftermuseum/product/KML-1-18</link>
+            <guid>https://www.sixshop.com/aftermuseum/product/KML-1-18</guid>
+            <pubDate>Mon, 14 Feb 2022 08:12:19 GMT</pubDate>
+            <content:encoded><![CDATA[15,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1644401991164_1000.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[최저가 할인] 플라워 바이 네이키드]]></title>
+            <link>https://www.sixshop.com/aftermuseum/product/FBN-111-13</link>
+            <guid>https://www.sixshop.com/aftermuseum/product/FBN-111-13</guid>
+            <pubDate>Mon, 14 Feb 2022 08:12:19 GMT</pubDate>
+            <content:encoded><![CDATA[14,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1640848468923_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
