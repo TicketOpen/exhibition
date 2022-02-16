@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 09:10:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 10:11:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -87,7 +87,7 @@
             <guid>https://www.sixshop.com/aftermuseum/product/KML-1</guid>
             <pubDate>Mon, 14 Feb 2022 08:12:19 GMT</pubDate>
             <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1644401991164_1000.png" length="0" type="image/png"/>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1645004733999_1000.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[최저가 할인] 샤갈 특별전, 샤갈 앤 더 바이블 (널 위한 문화예술 ─ 전시)]]></title>
@@ -103,7 +103,7 @@
             <guid>https://www.sixshop.com/aftermuseum/product/26f2b1b2-42c8-4e22-a020-e98e545b6bf8</guid>
             <pubDate>Mon, 14 Feb 2022 08:12:19 GMT</pubDate>
             <content:encoded><![CDATA[14,000원]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1644893415656_1000.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1645004755686_1000.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[널 위한 99티켓] 오늘은 월차 (널 위한 문화예술 ─ 전시)]]></title>
