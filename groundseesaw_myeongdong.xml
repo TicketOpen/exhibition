@@ -1,27 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>그라운드 시소 ─ EXHIBITIONS ─ 명동</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sun, 20 Feb 2022 04:12:44 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[반 고흐 인사이드: 더 씨어터]]></title>
-            <link>http://www.groundseesaw.co.kr/m11_view.php?idx=7&amp;cate=003&amp;cate2=3</link>
-            <guid>http://www.groundseesaw.co.kr/m11_view.php?idx=7&amp;cate=003&amp;cate2=3</guid>
-            <pubDate>Sun, 20 Feb 2022 00:41:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021-10-15 ~ 2022-04-30]]></content:encoded>
-            <enclosure url="http://www.groundseesaw.co.kr/data/exhibition/file1_16371338044gozwo2u45.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블루룸]]></title>
-            <link>http://www.groundseesaw.co.kr/m11_view.php?idx=5&amp;cate=003&amp;cate2=3</link>
-            <guid>http://www.groundseesaw.co.kr/m11_view.php?idx=5&amp;cate=003&amp;cate2=3</guid>
-            <pubDate>Sun, 20 Feb 2022 00:41:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021-06-04 ~ 2022-02-28]]></content:encoded>
-            <enclosure url="http://www.groundseesaw.co.kr/data/exhibition/file1_1643174305meez9r68wl.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://www.groundseesaw.co.kr/m11.php?cate=003</id>
+    <title>그라운드 시소 ─ EXHIBITIONS ─ 명동</title>
+    <updated>2022-02-20T05:09:34.840Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>http://www.groundseesaw.co.kr/favicon.ico</icon>
+</feed>
