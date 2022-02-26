@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Feb 2022 06:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 07:10:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -71,7 +71,7 @@
             <guid>https://www.sixshop.com/aftermuseum/product/Teresa</guid>
             <pubDate>Sat, 26 Feb 2022 04:13:07 GMT</pubDate>
             <content:encoded><![CDATA[9,000원]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1645844062631_1000.png" length="0" type="image/png"/>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1645858758320_1000.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[널 위한 99티켓] 게티이미지 사진 전: 세상을 연결하다 (널 위한 문화예술 ─ 전시)]]></title>
