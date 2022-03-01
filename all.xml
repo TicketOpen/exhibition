@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Mar 2022 05:10:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 06:16:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -66,14 +66,6 @@
             <enclosure url="http://www.groundseesaw.co.kr/data/exhibition/file1_1643174305meez9r68wl.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[널 위한 99티켓] 테레사 프레이타스 사진전 (널 위한 문화예술 ─ 전시)]]></title>
-            <link>https://www.sixshop.com/aftermuseum/product/Teresa</link>
-            <guid>https://www.sixshop.com/aftermuseum/product/Teresa</guid>
-            <pubDate>Sat, 26 Feb 2022 04:13:07 GMT</pubDate>
-            <content:encoded><![CDATA[9,000원]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1645858758320_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[널 위한 99티켓] 게티이미지 사진 전: 세상을 연결하다 (널 위한 문화예술 ─ 전시)]]></title>
             <link>https://www.sixshop.com/aftermuseum/product/gettyimage-exhibition</link>
             <guid>https://www.sixshop.com/aftermuseum/product/gettyimage-exhibition</guid>
@@ -88,6 +80,14 @@
             <pubDate>Mon, 14 Feb 2022 08:12:19 GMT</pubDate>
             <content:encoded><![CDATA[15,000원]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1644401991164_1000.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[널 위한 99티켓] 테레사 프레이타스 사진전 (널 위한 문화예술 ─ 전시)]]></title>
+            <link>https://www.sixshop.com/aftermuseum/product/Teresa</link>
+            <guid>https://www.sixshop.com/aftermuseum/product/Teresa</guid>
+            <pubDate>Sat, 26 Feb 2022 04:13:07 GMT</pubDate>
+            <content:encoded><![CDATA[9,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1645858758320_1000.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[널 위한 99티켓] 칸딘스키, 말레비치 & 러시아 아방가르드 : 혁명의 예술 (널 위한 문화예술 ─ 전시)]]></title>
