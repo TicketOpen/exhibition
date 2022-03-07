@@ -4,9 +4,17 @@
         <title>널 위한 문화예술 ─ 전시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 08:13:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 09:13:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[널 위한 99티켓] 로그아웃]]></title>
+            <link>https://www.sixshop.com/aftermuseum/product/Logout</link>
+            <guid>https://www.sixshop.com/aftermuseum/product/Logout</guid>
+            <pubDate>Mon, 07 Mar 2022 09:12:44 GMT</pubDate>
+            <content:encoded><![CDATA[12,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1646641096349_1000.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[널 위한 99티켓] 테레사 프레이타스 사진전]]></title>
             <link>https://www.sixshop.com/aftermuseum/product/Teresa</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 14 Feb 2022 08:12:19 GMT</pubDate>
             <content:encoded><![CDATA[14,000원]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1644893591988_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[널 위한 99티켓] 샤갈 특별전, 샤갈 앤 더 바이블]]></title>
-            <link>https://www.sixshop.com/aftermuseum/product/26f2b1b2-42c8-4e22-a020-e98e545b6bf8</link>
-            <guid>https://www.sixshop.com/aftermuseum/product/26f2b1b2-42c8-4e22-a020-e98e545b6bf8</guid>
-            <pubDate>Mon, 14 Feb 2022 08:12:19 GMT</pubDate>
-            <content:encoded><![CDATA[14,000원]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1645004755686_1000.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
