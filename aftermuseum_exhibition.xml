@@ -4,9 +4,17 @@
         <title>널 위한 문화예술 ─ 전시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 08:30:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 09:44:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[널 위한 99티켓] 더 컬러스팟 : 꿈속의 자연]]></title>
+            <link>https://www.sixshop.com/aftermuseum/product/Colorspot</link>
+            <guid>https://www.sixshop.com/aftermuseum/product/Colorspot</guid>
+            <pubDate>Fri, 18 Mar 2022 09:44:01 GMT</pubDate>
+            <content:encoded><![CDATA[15,500원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1647596156797_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[널 위한 99티켓] 로그아웃]]></title>
             <link>https://www.sixshop.com/aftermuseum/product/Logout</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 14 Feb 2022 08:12:19 GMT</pubDate>
             <content:encoded><![CDATA[15,000원]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1645004733999_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[최저가 할인] 샤갈 특별전, 샤갈 앤 더 바이블]]></title>
-            <link>https://www.sixshop.com/aftermuseum/product/26f2b1b2-42c8-4e22-a020-e98e545b6bf8-16</link>
-            <guid>https://www.sixshop.com/aftermuseum/product/26f2b1b2-42c8-4e22-a020-e98e545b6bf8-16</guid>
-            <pubDate>Mon, 14 Feb 2022 08:12:19 GMT</pubDate>
-            <content:encoded><![CDATA[14,000원]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1644893591988_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
