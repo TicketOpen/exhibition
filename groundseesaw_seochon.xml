@@ -4,17 +4,17 @@
         <title>그라운드 시소 ─ EXHIBITIONS ─ 서촌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 07:11:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 08:14:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[요시고 사진전: 따뜻한 휴일의 기록]]></title>
-            <link>https://booking.naver.com/booking/5/bizes/533231</link>
-            <guid>https://booking.naver.com/booking/5/bizes/533231</guid>
-            <pubDate>Tue, 05 Apr 2022 07:10:51 GMT</pubDate>
+            <title><![CDATA[레드룸]]></title>
+            <link>https://tickets.interpark.com/goods/22003677</link>
+            <guid>https://tickets.interpark.com/goods/22003677</guid>
+            <pubDate>Tue, 05 Apr 2022 08:13:51 GMT</pubDate>
             <content:encoded><![CDATA[<dl>
 								<dt>전시기간</dt>
-								<dd>2021-06-23 ~ 2022-04-03</dd>
+								<dd>2022-04-28 ~ 2022-11-06</dd>
 							</dl>
 																			<dl>
 								<dt>관람시간</dt>
@@ -22,11 +22,29 @@
 									오전 10시 ~ 오후 7시 (입장마감 : 오후 6시)<br>
 *매월 첫째 주 월요일 휴관 | 공휴일 정상개관								</dd>
 							</dl>
-																									<dl>
+																			<dl class="ticket_price">
+								<dt>티켓가격</dt>
+								<dd>
+									<dl>
+										<dt>일반가</dt>
+										<dd>성인(20세 이상) 18,000원</dd>
+									</dl>
+									<dl>
+										<dt>할인가</dt>
+										<dd>
+											얼리버드 : 성인(20세 이상) 10,800원										</dd>
+									</dl>
+									<dl>
+										<dt>무료입장</dt>
+										<dd>해당없음</dd>
+									</dl>
+								</dd>
+							</dl>
+																			<dl>
 								<dt>전시문의</dt>
 								<dd>1522-1796</dd>
 							</dl>]]></content:encoded>
-            <enclosure url="http://www.groundseesaw.co.kr/data/exhibition/file1_1643162091axh0atqw5j.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.groundseesaw.co.kr/data/exhibition/file1_1648625283h4l2plbmja.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
