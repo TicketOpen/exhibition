@@ -1,59 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>널 위한 문화예술 ─ 전시</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 16:14:49 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[널 위한 99티켓] 알렉스 프레거, 빅 웨스트 전]]></title>
-            <link>https://www.sixshop.com/aftermuseum/product/alex-prager-big-west</link>
-            <guid>https://www.sixshop.com/aftermuseum/product/alex-prager-big-west</guid>
-            <pubDate>Sun, 03 Apr 2022 08:13:15 GMT</pubDate>
-            <content:encoded><![CDATA[12,000원]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1648968671556_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[널 위한 99티켓] 빛 : 영국 테이트 미술관 특별전]]></title>
-            <link>https://www.sixshop.com/aftermuseum/product/Light</link>
-            <guid>https://www.sixshop.com/aftermuseum/product/Light</guid>
-            <pubDate>Wed, 30 Mar 2022 07:12:30 GMT</pubDate>
-            <content:encoded><![CDATA[10,000원]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1648623006306_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[널 위한 99티켓] 더 컬러스팟 : 꿈속의 자연]]></title>
-            <link>https://www.sixshop.com/aftermuseum/product/Colorspot</link>
-            <guid>https://www.sixshop.com/aftermuseum/product/Colorspot</guid>
-            <pubDate>Thu, 24 Mar 2022 17:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1647597477502_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[널 위한 99티켓] 로그아웃]]></title>
-            <link>https://www.sixshop.com/aftermuseum/product/Logout</link>
-            <guid>https://www.sixshop.com/aftermuseum/product/Logout</guid>
-            <pubDate>Thu, 24 Mar 2022 17:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[12,000원]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1646641096349_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[널 위한 99티켓] 테레사 프레이타스 사진전]]></title>
-            <link>https://www.sixshop.com/aftermuseum/product/Teresa</link>
-            <guid>https://www.sixshop.com/aftermuseum/product/Teresa</guid>
-            <pubDate>Thu, 24 Mar 2022 17:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[9,000원]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1645858758320_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[널 위한 99티켓] 게티이미지 사진 전: 세상을 연결하다]]></title>
-            <link>https://www.sixshop.com/aftermuseum/product/gettyimage-exhibition</link>
-            <guid>https://www.sixshop.com/aftermuseum/product/gettyimage-exhibition</guid>
-            <pubDate>Thu, 24 Mar 2022 17:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[14,400원]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1644897555993_1000.png" length="0" type="image/png"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.sixshop.com/aftermuseum/exhibition</id>
+    <title>널 위한 문화예술 ─ 전시</title>
+    <updated>2022-04-05T17:15:43.098Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.sixshop.com/aftermuseum/favicon.ico</icon>
+</feed>
