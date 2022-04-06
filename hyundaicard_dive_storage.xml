@@ -4,17 +4,9 @@
         <title>현대카드 DIVE ─ STORAGE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 05:10:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 06:14:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[DIVE  COLLECTION!]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 10 Feb 2022 11:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[04/06(수) ~ 04/30(토)]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4e2d016045ed44eb954967802396259b.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[봄바람 휘날리며]]></title>
             <link>javascript:;</link>
@@ -38,6 +30,14 @@
             <pubDate>Thu, 10 Feb 2022 11:08:48 GMT</pubDate>
             <content:encoded><![CDATA[01/06(목) ~ 12/31(토)]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a6a83f25f1794ca6b3dd97668e965f77.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새로운  마음으로  시작]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 10 Feb 2022 11:08:48 GMT</pubDate>
+            <content:encoded><![CDATA[01/01(토) ~ 01/31(월)]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/197b1be7232f4db0aa1f39905f40a1a9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
