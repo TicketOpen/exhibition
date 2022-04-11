@@ -4,69 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 08:14:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 09:11:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[레드룸 (그라운드 시소 ─ EXHIBITIONS ─ 서촌)]]></title>
-            <link>https://tickets.interpark.com/goods/22003677</link>
-            <guid>https://tickets.interpark.com/goods/22003677</guid>
-            <pubDate>Mon, 11 Apr 2022 08:13:36 GMT</pubDate>
-            <content:encoded><![CDATA[<dl>
-								<dt>전시기간</dt>
-								<dd>2022-04-28 ~ 2022-11-06</dd>
-							</dl>
-																			<dl>
-								<dt>관람시간</dt>
-								<dd>
-									오전 10시 ~ 오후 7시 (입장마감 : 오후 6시)<br>
-*매월 첫째 주 월요일 휴관 | 공휴일 정상개관								</dd>
-							</dl>
-																			<dl class="ticket_price">
-								<dt>티켓가격</dt>
-								<dd>
-									<dl>
-										<dt>일반가</dt>
-										<dd>성인(20세 이상) 18,000원</dd>
-									</dl>
-									<dl>
-										<dt>할인가</dt>
-										<dd>
-											얼리버드 : 성인(20세 이상) 10,800원										</dd>
-									</dl>
-									<dl>
-										<dt>무료입장</dt>
-										<dd>해당없음</dd>
-									</dl>
-								</dd>
-							</dl>
-																			<dl>
-								<dt>전시문의</dt>
-								<dd>1522-1796</dd>
-							</dl>]]></content:encoded>
-            <enclosure url="http://www.groundseesaw.co.kr/data/exhibition/file1_1648625283h4l2plbmja.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우연히 웨스 앤더슨: 어디에 있든, 영감은 당신 눈앞에 있다 (그라운드 시소 ─ EXHIBITIONS ─ 성수)]]></title>
-            <link>https://tickets.interpark.com/goods/21010389</link>
-            <guid>https://tickets.interpark.com/goods/21010389</guid>
-            <pubDate>Mon, 11 Apr 2022 08:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[<dl>
-								<dt>전시기간</dt>
-								<dd>2021-11-27 ~ 2022-06-06</dd>
-							</dl>
-																			<dl>
-								<dt>관람시간</dt>
-								<dd>
-									오전 10시 ~ 오후 7시 (입장마감 : 오후 6시)<br>
-*매월 첫째 주 월요일 휴관 | 공휴일 정상개관								</dd>
-							</dl>
-																									<dl>
-								<dt>전시문의</dt>
-								<dd>1522-1796</dd>
-							</dl>]]></content:encoded>
-            <enclosure url="http://www.groundseesaw.co.kr/data/exhibition/file1_1631759387esmpfzzov4.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[널 위한 99티켓] 알렉스 프레거, 빅 웨스트 전 (널 위한 문화예술 ─ 전시)]]></title>
             <link>https://www.sixshop.com/aftermuseum/product/alex-prager-big-west</link>
