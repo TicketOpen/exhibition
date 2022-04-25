@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 00:44:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 02:50:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -66,54 +66,6 @@
 								<dd>1522-1796</dd>
 							</dl>]]></content:encoded>
             <enclosure url="http://www.groundseesaw.co.kr/data/exhibition/file1_1631759387esmpfzzov4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[최저가할인] 더프리뷰 성수 아트페어 (널 위한 문화예술 ─ 전시)]]></title>
-            <link>https://www.sixshop.com/aftermuseum/product/Previewss</link>
-            <guid>https://www.sixshop.com/aftermuseum/product/Previewss</guid>
-            <pubDate>Tue, 19 Apr 2022 07:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[14,000원]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1650351503065_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[널 위한 99티켓] 알렉스 프레거, 빅 웨스트 전 (널 위한 문화예술 ─ 전시)]]></title>
-            <link>https://www.sixshop.com/aftermuseum/product/alex-prager-big-west</link>
-            <guid>https://www.sixshop.com/aftermuseum/product/alex-prager-big-west</guid>
-            <pubDate>Tue, 05 Apr 2022 18:12:43 GMT</pubDate>
-            <content:encoded><![CDATA[12,000원]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1648968671556_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[널 위한 99티켓] 빛 : 영국 테이트 미술관 특별전 (널 위한 문화예술 ─ 전시)]]></title>
-            <link>https://www.sixshop.com/aftermuseum/product/Light</link>
-            <guid>https://www.sixshop.com/aftermuseum/product/Light</guid>
-            <pubDate>Tue, 05 Apr 2022 18:12:43 GMT</pubDate>
-            <content:encoded><![CDATA[10,000원]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1648623006306_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[널 위한 99티켓] 더 컬러스팟 : 꿈속의 자연 (널 위한 문화예술 ─ 전시)]]></title>
-            <link>https://www.sixshop.com/aftermuseum/product/Colorspot</link>
-            <guid>https://www.sixshop.com/aftermuseum/product/Colorspot</guid>
-            <pubDate>Tue, 05 Apr 2022 18:12:43 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1647597477502_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[널 위한 99티켓] 로그아웃 (널 위한 문화예술 ─ 전시)]]></title>
-            <link>https://www.sixshop.com/aftermuseum/product/Logout</link>
-            <guid>https://www.sixshop.com/aftermuseum/product/Logout</guid>
-            <pubDate>Tue, 05 Apr 2022 18:12:43 GMT</pubDate>
-            <content:encoded><![CDATA[12,000원]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1646641096349_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[널 위한 99티켓] 테레사 프레이타스 사진전 (널 위한 문화예술 ─ 전시)]]></title>
-            <link>https://www.sixshop.com/aftermuseum/product/Teresa</link>
-            <guid>https://www.sixshop.com/aftermuseum/product/Teresa</guid>
-            <pubDate>Tue, 05 Apr 2022 18:12:43 GMT</pubDate>
-            <content:encoded><![CDATA[9,000원]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1645858758320_1000.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[봄바람 휘날리며 (현대카드 DIVE ─ STORAGE)]]></title>
