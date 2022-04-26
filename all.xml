@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 02:58:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 03:48:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -68,6 +68,14 @@
             <enclosure url="http://www.groundseesaw.co.kr/data/exhibition/file1_1631759387esmpfzzov4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[널위한99티켓] 구하우스 (널 위한 문화예술 ─ 전시)]]></title>
+            <link>https://www.sixshop.com/aftermuseum/product/KOO</link>
+            <guid>https://www.sixshop.com/aftermuseum/product/KOO</guid>
+            <pubDate>Tue, 26 Apr 2022 03:47:55 GMT</pubDate>
+            <content:encoded><![CDATA[12,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1650944114992_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[최저가할인] 더프리뷰 성수 아트페어 (널 위한 문화예술 ─ 전시)]]></title>
             <link>https://www.sixshop.com/aftermuseum/product/Previewss</link>
             <guid>https://www.sixshop.com/aftermuseum/product/Previewss</guid>
@@ -106,14 +114,6 @@
             <pubDate>Mon, 25 Apr 2022 03:40:58 GMT</pubDate>
             <content:encoded><![CDATA[12,000원]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1646641096349_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[널 위한 99티켓] 테레사 프레이타스 사진전 (널 위한 문화예술 ─ 전시)]]></title>
-            <link>https://www.sixshop.com/aftermuseum/product/Teresa</link>
-            <guid>https://www.sixshop.com/aftermuseum/product/Teresa</guid>
-            <pubDate>Mon, 25 Apr 2022 03:40:58 GMT</pubDate>
-            <content:encoded><![CDATA[9,000원]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1645858758320_1000.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[봄바람 휘날리며 (현대카드 DIVE ─ STORAGE)]]></title>
