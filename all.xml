@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Apr 2022 09:11:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 10:12:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -68,6 +68,14 @@
             <enclosure url="http://www.groundseesaw.co.kr/data/exhibition/file1_1631759387esmpfzzov4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[널위한99티켓] 아트부산 (널 위한 문화예술 ─ 전시)]]></title>
+            <link>https://www.sixshop.com/aftermuseum/product/Artbusan</link>
+            <guid>https://www.sixshop.com/aftermuseum/product/Artbusan</guid>
+            <pubDate>Sat, 30 Apr 2022 10:12:16 GMT</pubDate>
+            <content:encoded><![CDATA[15,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1651309066183_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[널위한99티켓] 라이프사진전 (널 위한 문화예술 ─ 전시)]]></title>
             <link>https://www.sixshop.com/aftermuseum/product/Life</link>
             <guid>https://www.sixshop.com/aftermuseum/product/Life</guid>
@@ -106,14 +114,6 @@
             <pubDate>Mon, 25 Apr 2022 03:40:58 GMT</pubDate>
             <content:encoded><![CDATA[10,000원]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1648623006306_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[널 위한 99티켓] 더 컬러스팟 : 꿈속의 자연 (널 위한 문화예술 ─ 전시)]]></title>
-            <link>https://www.sixshop.com/aftermuseum/product/Colorspot</link>
-            <guid>https://www.sixshop.com/aftermuseum/product/Colorspot</guid>
-            <pubDate>Mon, 25 Apr 2022 03:40:58 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1647597477502_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[봄바람 휘날리며 (현대카드 DIVE ─ STORAGE)]]></title>
