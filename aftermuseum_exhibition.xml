@@ -4,7 +4,7 @@
         <title>널 위한 문화예술 ─ 전시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 00:54:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 02:59:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Mon, 02 May 2022 09:12:42 GMT</pubDate>
             <content:encoded><![CDATA[7,000원]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1651482019178_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[99티켓] [최저가 25% 할인] 아트부산]]></title>
-            <link>https://www.sixshop.com/aftermuseum/product/Artbusan</link>
-            <guid>https://www.sixshop.com/aftermuseum/product/Artbusan</guid>
-            <pubDate>Mon, 02 May 2022 09:12:42 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1651309066183_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[99티켓] [최저가 20% 할인] 라이프 사진전]]></title>
@@ -38,6 +30,14 @@
             <pubDate>Mon, 02 May 2022 09:12:42 GMT</pubDate>
             <content:encoded><![CDATA[12,000원]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1650944114992_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[99티켓] [최저가 25% 할인] 아트부산]]></title>
+            <link>https://www.sixshop.com/aftermuseum/product/Artbusan</link>
+            <guid>https://www.sixshop.com/aftermuseum/product/Artbusan</guid>
+            <pubDate>Mon, 02 May 2022 09:12:42 GMT</pubDate>
+            <content:encoded><![CDATA[15,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1651309066183_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[최저가 할인] 더프리뷰 성수 아트페어]]></title>
