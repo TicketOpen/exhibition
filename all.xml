@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 00:53:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 02:55:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -66,54 +66,6 @@
 								<dd>1522-1796</dd>
 							</dl>]]></content:encoded>
             <enclosure url="http://www.groundseesaw.co.kr/data/exhibition/file1_1631759387esmpfzzov4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[99티켓] [최저가 50%+ 할인] 내셔널지오그래픽 사진전 (널 위한 문화예술 ─ 전시)]]></title>
-            <link>https://www.sixshop.com/aftermuseum/product/NGA</link>
-            <guid>https://www.sixshop.com/aftermuseum/product/NGA</guid>
-            <pubDate>Mon, 02 May 2022 09:12:42 GMT</pubDate>
-            <content:encoded><![CDATA[7,000원]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1651482019178_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[99티켓] [최저가 25% 할인] 아트부산 (널 위한 문화예술 ─ 전시)]]></title>
-            <link>https://www.sixshop.com/aftermuseum/product/Artbusan</link>
-            <guid>https://www.sixshop.com/aftermuseum/product/Artbusan</guid>
-            <pubDate>Mon, 02 May 2022 09:12:42 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1651309066183_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[99티켓] [최저가 20% 할인] 구하우스 (널 위한 문화예술 ─ 전시)]]></title>
-            <link>https://www.sixshop.com/aftermuseum/product/KOO</link>
-            <guid>https://www.sixshop.com/aftermuseum/product/KOO</guid>
-            <pubDate>Mon, 02 May 2022 09:12:42 GMT</pubDate>
-            <content:encoded><![CDATA[12,000원]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1650944114992_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[99티켓] [최저가 20% 할인] 라이프 사진전 (널 위한 문화예술 ─ 전시)]]></title>
-            <link>https://www.sixshop.com/aftermuseum/product/Life</link>
-            <guid>https://www.sixshop.com/aftermuseum/product/Life</guid>
-            <pubDate>Mon, 02 May 2022 09:12:42 GMT</pubDate>
-            <content:encoded><![CDATA[12,000원]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1651118087289_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[최저가 할인] 더프리뷰 성수 아트페어 (널 위한 문화예술 ─ 전시)]]></title>
-            <link>https://www.sixshop.com/aftermuseum/product/Previewss</link>
-            <guid>https://www.sixshop.com/aftermuseum/product/Previewss</guid>
-            <pubDate>Mon, 02 May 2022 09:12:42 GMT</pubDate>
-            <content:encoded><![CDATA[14,000원]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1650351503065_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[99티켓] [최저가 20% 할인] 알렉스 프레거, 빅 웨스트 전 (널 위한 문화예술 ─ 전시)]]></title>
-            <link>https://www.sixshop.com/aftermuseum/product/alex-prager-big-west</link>
-            <guid>https://www.sixshop.com/aftermuseum/product/alex-prager-big-west</guid>
-            <pubDate>Mon, 02 May 2022 09:12:42 GMT</pubDate>
-            <content:encoded><![CDATA[12,000원]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1648968671556_1000.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[봄바람 휘날리며 (현대카드 DIVE ─ STORAGE)]]></title>
