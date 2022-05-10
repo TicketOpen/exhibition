@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 06:14:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 07:12:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -68,6 +68,14 @@
             <enclosure url="http://www.groundseesaw.co.kr/data/exhibition/file1_1631759387esmpfzzov4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[99티켓] [최저가 20% 할인] 구하우스 (널 위한 문화예술 ─ 전시)]]></title>
+            <link>https://www.sixshop.com/aftermuseum/product/KOO</link>
+            <guid>https://www.sixshop.com/aftermuseum/product/KOO</guid>
+            <pubDate>Mon, 09 May 2022 03:46:05 GMT</pubDate>
+            <content:encoded><![CDATA[12,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1650944114992_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[99티켓] [최저가 50%+ 할인] 내셔널지오그래픽 사진전 (널 위한 문화예술 ─ 전시)]]></title>
             <link>https://www.sixshop.com/aftermuseum/product/NGA</link>
             <guid>https://www.sixshop.com/aftermuseum/product/NGA</guid>
@@ -82,14 +90,6 @@
             <pubDate>Mon, 09 May 2022 03:46:05 GMT</pubDate>
             <content:encoded><![CDATA[15,000원]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1651309066183_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[99티켓] [최저가 20% 할인] 구하우스 (널 위한 문화예술 ─ 전시)]]></title>
-            <link>https://www.sixshop.com/aftermuseum/product/KOO</link>
-            <guid>https://www.sixshop.com/aftermuseum/product/KOO</guid>
-            <pubDate>Mon, 09 May 2022 03:46:05 GMT</pubDate>
-            <content:encoded><![CDATA[12,000원]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1650944114992_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[99티켓] [최저가 20% 할인] 라이프 사진전 (널 위한 문화예술 ─ 전시)]]></title>
