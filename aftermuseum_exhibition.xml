@@ -4,9 +4,17 @@
         <title>널 위한 문화예술 ─ 전시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 09:20:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 10:14:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[99티켓] [50%할인+포스터 할인권] 호안 미로: 여인, 새, 별]]></title>
+            <link>https://www.sixshop.com/aftermuseum/product/JoanMiro</link>
+            <guid>https://www.sixshop.com/aftermuseum/product/JoanMiro</guid>
+            <pubDate>Thu, 12 May 2022 10:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[9,500원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1652348145413_1000.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[99티켓] [최저가 50%+ 할인] 내셔널지오그래픽 사진전]]></title>
             <link>https://www.sixshop.com/aftermuseum/product/NGA</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 09 May 2022 03:46:05 GMT</pubDate>
             <content:encoded><![CDATA[14,000원]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1650351503065_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[99티켓] [최저가 20% 할인] 알렉스 프레거, 빅 웨스트 전]]></title>
-            <link>https://www.sixshop.com/aftermuseum/product/alex-prager-big-west</link>
-            <guid>https://www.sixshop.com/aftermuseum/product/alex-prager-big-west</guid>
-            <pubDate>Mon, 09 May 2022 03:46:05 GMT</pubDate>
-            <content:encoded><![CDATA[12,000원]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1648968671556_1000.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
