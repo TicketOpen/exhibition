@@ -4,17 +4,9 @@
         <title>널 위한 문화예술 ─ 전시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 May 2022 08:13:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 May 2022 09:11:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[99티켓] [최저가 30% 할인] 에릭 요한슨 사진전]]></title>
-            <link>https://www.sixshop.com/aftermuseum/product/erikjohansson</link>
-            <guid>https://www.sixshop.com/aftermuseum/product/erikjohansson</guid>
-            <pubDate>Sun, 22 May 2022 02:58:28 GMT</pubDate>
-            <content:encoded><![CDATA[10,500원]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1653106567838_1000.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[[99티켓] [최저가 할인] 아트 인 메타버스 전시]]></title>
             <link>https://www.sixshop.com/aftermuseum/product/colorpictures-35</link>
@@ -46,6 +38,14 @@
             <pubDate>Thu, 12 May 2022 10:13:56 GMT</pubDate>
             <content:encoded><![CDATA[9,500원]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1652348145413_1000.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[99티켓] [최저가 30% 할인] 에릭 요한슨 사진전]]></title>
+            <link>https://www.sixshop.com/aftermuseum/product/erikjohansson</link>
+            <guid>https://www.sixshop.com/aftermuseum/product/erikjohansson</guid>
+            <pubDate>Sun, 22 May 2022 02:58:28 GMT</pubDate>
+            <content:encoded><![CDATA[10,500원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1653106567838_1000.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[99티켓] [최저가 50%+ 할인] 내셔널지오그래픽 사진전]]></title>
