@@ -4,7 +4,7 @@
         <title>널 위한 문화예술 ─ 전시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 10:13:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 11:11:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Tue, 24 May 2022 10:13:14 GMT</pubDate>
             <content:encoded><![CDATA[14,000원]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1653385048144_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[99티켓] [최저가 30% 할인] 에릭 요한슨 사진전]]></title>
-            <link>https://www.sixshop.com/aftermuseum/product/erikjohansson</link>
-            <guid>https://www.sixshop.com/aftermuseum/product/erikjohansson</guid>
-            <pubDate>Sun, 22 May 2022 02:58:28 GMT</pubDate>
-            <content:encoded><![CDATA[10,500원]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1653106567838_1000.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[99티켓] [최저가 할인] 아트 인 메타버스 전시]]></title>
@@ -46,6 +38,14 @@
             <pubDate>Sun, 22 May 2022 02:58:28 GMT</pubDate>
             <content:encoded><![CDATA[10,000원]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1648968671556_1000.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[99티켓] [최저가 30% 할인] 에릭 요한슨 사진전]]></title>
+            <link>https://www.sixshop.com/aftermuseum/product/erikjohansson</link>
+            <guid>https://www.sixshop.com/aftermuseum/product/erikjohansson</guid>
+            <pubDate>Sun, 22 May 2022 02:58:28 GMT</pubDate>
+            <content:encoded><![CDATA[10,500원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1653106567838_1000.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[99티켓] [50%할인+포스터 할인권] 호안 미로: 여인, 새, 별]]></title>
