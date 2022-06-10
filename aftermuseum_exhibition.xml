@@ -4,9 +4,25 @@
         <title>널 위한 문화예술 ─ 전시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 02:57:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 03:44:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[99티켓] [최저가 35% 할인] 2022 울산국제아트페어]]></title>
+            <link>https://www.sixshop.com/aftermuseum/product/ulsaninternationalartfair</link>
+            <guid>https://www.sixshop.com/aftermuseum/product/ulsaninternationalartfair</guid>
+            <pubDate>Fri, 10 Jun 2022 03:44:12 GMT</pubDate>
+            <content:encoded><![CDATA[10,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1654827040179_1000.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[99티켓] [최저가 20% 할인] 올림피아 자그놀리 특별전 : LIFE IS COLOR]]></title>
+            <link>https://www.sixshop.com/aftermuseum/product/zagnoli</link>
+            <guid>https://www.sixshop.com/aftermuseum/product/zagnoli</guid>
+            <pubDate>Fri, 10 Jun 2022 03:44:12 GMT</pubDate>
+            <content:encoded><![CDATA[16,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1654825292741_1000.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[최저가 30% 할인] 팀 버튼 특별전]]></title>
             <link>https://www.sixshop.com/aftermuseum/product/timburton</link>
@@ -38,22 +54,6 @@
             <pubDate>Sun, 22 May 2022 02:58:28 GMT</pubDate>
             <content:encoded><![CDATA[10,000원]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1652952614383_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[99티켓] [앵콜] [최저가 30% 할인] 알렉스 프레거, 빅 웨스트 전]]></title>
-            <link>https://www.sixshop.com/aftermuseum/product/alex-prager-big-west-encore</link>
-            <guid>https://www.sixshop.com/aftermuseum/product/alex-prager-big-west-encore</guid>
-            <pubDate>Sun, 22 May 2022 02:58:28 GMT</pubDate>
-            <content:encoded><![CDATA[10,000원]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1648968671556_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[99티켓] [50%할인+포스터 할인권] 호안 미로: 여인, 새, 별]]></title>
-            <link>https://www.sixshop.com/aftermuseum/product/JoanMiro</link>
-            <guid>https://www.sixshop.com/aftermuseum/product/JoanMiro</guid>
-            <pubDate>Thu, 12 May 2022 10:13:56 GMT</pubDate>
-            <content:encoded><![CDATA[9,500원]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1652348145413_1000.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
