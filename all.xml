@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 00:58:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 02:57:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,7 +120,7 @@
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 10 Feb 2022 11:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[06/03(금) ~ 09/25(일)]]></content:encoded>
+            <content:encoded><![CDATA[06/10(금) ~ 09/25(일)]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d2f788c6f6934addb8ab451c47ffa4e5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
