@@ -4,9 +4,17 @@
         <title>널 위한 문화예술 ─ 전시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 08:14:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 09:12:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[99티켓] [최저가 20% 할인] FUTURE FOOD：혀가 느끼는 고민]]></title>
+            <link>https://www.sixshop.com/aftermuseum/product/futurefood</link>
+            <guid>https://www.sixshop.com/aftermuseum/product/futurefood</guid>
+            <pubDate>Mon, 13 Jun 2022 09:12:31 GMT</pubDate>
+            <content:encoded><![CDATA[8,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1655110355071_1000.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[99티켓] [최저가 35% 할인] 2022 울산국제아트페어]]></title>
             <link>https://www.sixshop.com/aftermuseum/product/ulsaninternationalartfair</link>
@@ -46,14 +54,6 @@
             <pubDate>Sun, 22 May 2022 02:58:28 GMT</pubDate>
             <content:encoded><![CDATA[10,000원]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1653031364724_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[99티켓] [최저가 50% 할인] 컬러픽쳐스 마일즈 알드리지 사진전]]></title>
-            <link>https://www.sixshop.com/aftermuseum/product/colorpictures</link>
-            <guid>https://www.sixshop.com/aftermuseum/product/colorpictures</guid>
-            <pubDate>Sun, 22 May 2022 02:58:28 GMT</pubDate>
-            <content:encoded><![CDATA[10,000원]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1652952614383_1000.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
