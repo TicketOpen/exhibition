@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 04:29:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 05:16:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,20 +76,20 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1655451731489_1000.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[99티켓] [최저가 20% 할인] FUTURE FOOD：혀가 느끼는 고민 (널 위한 문화예술 ─ 전시)]]></title>
-            <link>https://www.sixshop.com/aftermuseum/product/futurefood</link>
-            <guid>https://www.sixshop.com/aftermuseum/product/futurefood</guid>
-            <pubDate>Mon, 13 Jun 2022 09:12:31 GMT</pubDate>
-            <content:encoded><![CDATA[8,000원]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1655110355071_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[99티켓] [최저가 35% 할인] 2022 울산국제아트페어 (널 위한 문화예술 ─ 전시)]]></title>
             <link>https://www.sixshop.com/aftermuseum/product/ulsaninternationalartfair</link>
             <guid>https://www.sixshop.com/aftermuseum/product/ulsaninternationalartfair</guid>
             <pubDate>Fri, 10 Jun 2022 03:44:12 GMT</pubDate>
             <content:encoded><![CDATA[10,000원]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1654841145923_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[99티켓] [최저가 20% 할인] FUTURE FOOD：혀가 느끼는 고민 (널 위한 문화예술 ─ 전시)]]></title>
+            <link>https://www.sixshop.com/aftermuseum/product/futurefood</link>
+            <guid>https://www.sixshop.com/aftermuseum/product/futurefood</guid>
+            <pubDate>Mon, 13 Jun 2022 09:12:31 GMT</pubDate>
+            <content:encoded><![CDATA[8,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1655110355071_1000.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[99티켓] [최저가 20% 할인] 올림피아 자그놀리 특별전 : LIFE IS COLOR (널 위한 문화예술 ─ 전시)]]></title>
