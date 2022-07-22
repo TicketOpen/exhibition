@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 01:01:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 03:22:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -68,6 +68,14 @@
             <enclosure url="http://www.groundseesaw.co.kr/data/exhibition/file1_1631759387esmpfzzov4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[최저가 30% 할인] 바티망 Batiment (널 위한 문화예술 ─ 전시)]]></title>
+            <link>https://www.sixshop.com/aftermuseum/product/batiment</link>
+            <guid>https://www.sixshop.com/aftermuseum/product/batiment</guid>
+            <pubDate>Fri, 22 Jul 2022 03:22:08 GMT</pubDate>
+            <content:encoded><![CDATA[10,500원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1658459422554_1000.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[99티켓] [최저가 20% 할인] 루이스 웨인展 : 고양이를 그린 사랑의 화가 (널 위한 문화예술 ─ 전시)]]></title>
             <link>https://www.sixshop.com/aftermuseum/product/louiswain</link>
             <guid>https://www.sixshop.com/aftermuseum/product/louiswain</guid>
@@ -106,14 +114,6 @@
             <pubDate>Tue, 24 May 2022 10:13:14 GMT</pubDate>
             <content:encoded><![CDATA[14,000원]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1653385048144_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[99티켓] [최저가 30% 할인] 에릭 요한슨 사진전 (널 위한 문화예술 ─ 전시)]]></title>
-            <link>https://www.sixshop.com/aftermuseum/product/erikjohansson</link>
-            <guid>https://www.sixshop.com/aftermuseum/product/erikjohansson</guid>
-            <pubDate>Sun, 22 May 2022 02:58:28 GMT</pubDate>
-            <content:encoded><![CDATA[10,500원]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1653106567838_1000.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[마틴 심스의  시적인 영상 에세이 (현대카드 DIVE ─ STORAGE)]]></title>
