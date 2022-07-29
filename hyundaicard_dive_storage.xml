@@ -4,7 +4,7 @@
         <title>현대카드 DIVE ─ STORAGE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 05:24:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 06:15:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,12 +32,12 @@
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d2f788c6f6934addb8ab451c47ffa4e5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[봄바람 휘날리며]]></title>
+            <title><![CDATA[하룬 파로키와 카메라의 눈]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 10 Feb 2022 11:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[03/18(금) ~ 03/31(목)]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4ad916ecdefd4bf583629a3474f4599f.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[09/25(일)]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5a6ef68a685d4332ac43f13108128726.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
