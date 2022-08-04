@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 01:02:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 03:06:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -45,27 +45,6 @@
 								<dd>1522-1796</dd>
 							</dl>]]></content:encoded>
             <enclosure url="http://www.groundseesaw.co.kr/data/exhibition/file1_1649842624wkihsjf88y.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우연히 웨스 앤더슨: 어디에 있든, 영감은 당신 눈앞에 있다 (그라운드 시소 ─ EXHIBITIONS ─ 성수)]]></title>
-            <link>https://tickets.interpark.com/goods/21010389</link>
-            <guid>https://tickets.interpark.com/goods/21010389</guid>
-            <pubDate>Wed, 03 Aug 2022 14:10:16 GMT</pubDate>
-            <content:encoded><![CDATA[<dl>
-								<dt>전시기간</dt>
-								<dd>2021-11-27 ~ 2022-07-24</dd>
-							</dl>
-																			<dl>
-								<dt>관람시간</dt>
-								<dd>
-									오전 10시 ~ 오후 7시 (입장마감 : 오후 6시)<br>
-*매월 첫째 주 월요일 휴관 | 공휴일 정상개관								</dd>
-							</dl>
-																									<dl>
-								<dt>전시문의</dt>
-								<dd>1522-1796</dd>
-							</dl>]]></content:encoded>
-            <enclosure url="http://www.groundseesaw.co.kr/data/exhibition/file1_1631759387esmpfzzov4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[최저가 30% 할인] 바티망 Batiment (널 위한 문화예술 ─ 전시)]]></title>
