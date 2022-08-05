@@ -1,59 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>널 위한 문화예술 ─ 전시</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 08:15:00 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[최저가 30% 할인] 바티망 Batiment]]></title>
-            <link>https://www.sixshop.com/aftermuseum/product/batiment</link>
-            <guid>https://www.sixshop.com/aftermuseum/product/batiment</guid>
-            <pubDate>Fri, 22 Jul 2022 03:22:08 GMT</pubDate>
-            <content:encoded><![CDATA[10,500원]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1658459422554_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[99티켓] [최저가 20% 할인] 루이스 웨인展 : 고양이를 그린 사랑의 화가]]></title>
-            <link>https://www.sixshop.com/aftermuseum/product/louiswain</link>
-            <guid>https://www.sixshop.com/aftermuseum/product/louiswain</guid>
-            <pubDate>Fri, 17 Jun 2022 08:14:52 GMT</pubDate>
-            <content:encoded><![CDATA[9,600원]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1655451731489_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[99티켓] [최저가 20% 할인] FUTURE FOOD：혀가 느끼는 고민]]></title>
-            <link>https://www.sixshop.com/aftermuseum/product/futurefood</link>
-            <guid>https://www.sixshop.com/aftermuseum/product/futurefood</guid>
-            <pubDate>Mon, 13 Jun 2022 09:12:31 GMT</pubDate>
-            <content:encoded><![CDATA[8,000원]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1655110355071_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[99티켓] [최저가 35% 할인] 2022 울산국제아트페어]]></title>
-            <link>https://www.sixshop.com/aftermuseum/product/ulsaninternationalartfair</link>
-            <guid>https://www.sixshop.com/aftermuseum/product/ulsaninternationalartfair</guid>
-            <pubDate>Fri, 10 Jun 2022 03:44:12 GMT</pubDate>
-            <content:encoded><![CDATA[10,000원]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1654841145923_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[99티켓] [최저가 20% 할인] 올림피아 자그놀리 특별전 : LIFE IS COLOR]]></title>
-            <link>https://www.sixshop.com/aftermuseum/product/zagnoli</link>
-            <guid>https://www.sixshop.com/aftermuseum/product/zagnoli</guid>
-            <pubDate>Fri, 10 Jun 2022 03:44:12 GMT</pubDate>
-            <content:encoded><![CDATA[16,000원]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1654825292741_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[최저가 30% 할인] 팀 버튼 특별전]]></title>
-            <link>https://www.sixshop.com/aftermuseum/product/timburton</link>
-            <guid>https://www.sixshop.com/aftermuseum/product/timburton</guid>
-            <pubDate>Tue, 24 May 2022 10:13:14 GMT</pubDate>
-            <content:encoded><![CDATA[14,000원]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/135012/product/image_1653385048144_1000.png" length="0" type="image/png"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.sixshop.com/aftermuseum/exhibition</id>
+    <title>널 위한 문화예술 ─ 전시</title>
+    <updated>2022-08-05T09:11:23.449Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.sixshop.com/aftermuseum/favicon.ico</icon>
+</feed>
