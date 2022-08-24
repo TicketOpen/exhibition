@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 08:14:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 09:28:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[레드룸 (그라운드 시소 ─ EXHIBITIONS ─ 서촌)]]></title>
             <link>https://booking.naver.com/booking/5/bizes/654379/items/4393373</link>
             <guid>https://booking.naver.com/booking/5/bizes/654379/items/4393373</guid>
-            <pubDate>Wed, 24 Aug 2022 07:10:47 GMT</pubDate>
+            <pubDate>Wed, 24 Aug 2022 09:11:18 GMT</pubDate>
             <content:encoded><![CDATA[<dl>
 								<dt>전시기간</dt>
 								<dd>2022-04-28 ~ 2022-11-06</dd>
@@ -50,7 +50,7 @@
             <title><![CDATA[하룬 파로키와 카메라의 눈 (현대카드 DIVE ─ STORAGE)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
-            <pubDate>Thu, 10 Feb 2022 11:08:48 GMT</pubDate>
+            <pubDate>Wed, 24 Aug 2022 09:11:56 GMT</pubDate>
             <content:encoded><![CDATA[06/10(금) ~ 09/25(일)]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bf8ed8f66dca497994c262a0737dc361.jpg" length="0" type="image/jpg"/>
         </item>
@@ -58,7 +58,7 @@
             <title><![CDATA[아메리칸  아티스트가  경고한 미래 (현대카드 DIVE ─ STORAGE)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
-            <pubDate>Thu, 10 Feb 2022 11:08:48 GMT</pubDate>
+            <pubDate>Wed, 24 Aug 2022 09:11:56 GMT</pubDate>
             <content:encoded><![CDATA[06/10(금) ~ 09/25(일)]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/02c3b213da3d475d8bfff3724153415e.jpg" length="0" type="image/jpg"/>
         </item>
@@ -66,7 +66,7 @@
             <title><![CDATA[마틴 심스의  시적인 영상 에세이 (현대카드 DIVE ─ STORAGE)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
-            <pubDate>Thu, 10 Feb 2022 11:08:48 GMT</pubDate>
+            <pubDate>Wed, 24 Aug 2022 09:11:56 GMT</pubDate>
             <content:encoded><![CDATA[06/10(금) ~ 09/25(일)]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7711e35ffaf44fb1bf2682a9e32a72b0.jpg" length="0" type="image/jpg"/>
         </item>
@@ -74,7 +74,7 @@
             <title><![CDATA[뉴욕 MoMA  미디어 & 퍼포먼스  컬렉션 전시 (현대카드 DIVE ─ STORAGE)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
-            <pubDate>Thu, 10 Feb 2022 11:08:48 GMT</pubDate>
+            <pubDate>Wed, 24 Aug 2022 09:11:56 GMT</pubDate>
             <content:encoded><![CDATA[06/10(금) ~ 09/25(일)]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2761e59d7aa64f9ab028cdfe50c28f1c.jpg" length="0" type="image/jpg"/>
         </item>
