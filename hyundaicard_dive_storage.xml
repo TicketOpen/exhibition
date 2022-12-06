@@ -4,7 +4,7 @@
         <title>현대카드 DIVE ─ STORAGE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Dec 2022 14:09:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Dec 2022 15:11:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,20 +24,20 @@
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/eaee22f0653d4a56abcacdbf003eadb8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[자연을 테크놀로지에  담다]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[11/25(금) ~ 12/07(수)]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/78debf10228e46cd98d324391fb24b4e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[하룬 파로키와 카메라의 눈]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Wed, 16 Nov 2022 17:16:45 GMT</pubDate>
             <content:encoded><![CDATA[06/10(금) ~ 09/25(일)]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bf8ed8f66dca497994c262a0737dc361.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아메리칸  아티스트가  경고한 미래]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:16:45 GMT</pubDate>
-            <content:encoded><![CDATA[06/10(금) ~ 09/25(일)]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/02c3b213da3d475d8bfff3724153415e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
