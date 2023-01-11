@@ -4,7 +4,7 @@
         <title>현대카드 DIVE ─ STORAGE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Jan 2023 04:12:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jan 2023 05:10:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Wed, 16 Nov 2022 17:16:45 GMT</pubDate>
             <content:encoded><![CDATA[12/08(목) ~ 04/16(일)]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/93961e9b6fc54aa9a70c8e03cadf1d53.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자연을 테크놀로지에  담다]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:16:45 GMT</pubDate>
-            <content:encoded><![CDATA[11/25(금) ~ 04/16(일)]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/78debf10228e46cd98d324391fb24b4e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[하룬 파로키와 카메라의 눈]]></title>
@@ -38,6 +30,14 @@
             <pubDate>Wed, 16 Nov 2022 17:16:45 GMT</pubDate>
             <content:encoded><![CDATA[06/10(금) ~ 09/25(일)]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/02c3b213da3d475d8bfff3724153415e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마틴 심스의  시적인 영상 에세이]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[06/10(금) ~ 09/25(일)]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7711e35ffaf44fb1bf2682a9e32a72b0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
