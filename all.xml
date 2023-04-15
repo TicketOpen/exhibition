@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Apr 2023 14:08:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Apr 2023 15:09:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,20 +24,20 @@
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b5a33c5c1bd64267b22fedebfa4429cc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[자연과 기술이 만난 예술적 경험 (현대카드 DIVE ─ STORAGE)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[12/08(목) ~ 04/16(일)]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/93961e9b6fc54aa9a70c8e03cadf1d53.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[하룬 파로키와 카메라의 눈 (현대카드 DIVE ─ STORAGE)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Wed, 16 Nov 2022 17:16:45 GMT</pubDate>
             <content:encoded><![CDATA[06/10(금) ~ 09/25(일)]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bf8ed8f66dca497994c262a0737dc361.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아메리칸  아티스트가  경고한 미래 (현대카드 DIVE ─ STORAGE)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:16:45 GMT</pubDate>
-            <content:encoded><![CDATA[06/10(금) ~ 09/25(일)]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/02c3b213da3d475d8bfff3724153415e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
