@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Apr 2023 14:09:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Apr 2023 15:09:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[자연과 기술이 만난 예술적 경험 (현대카드 DIVE ─ STORAGE)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:16:45 GMT</pubDate>
-            <content:encoded><![CDATA[12/08(목) ~ 04/16(일)]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/93961e9b6fc54aa9a70c8e03cadf1d53.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[물리학으로 바라본 키네틱 아트 (현대카드 DIVE ─ STORAGE)]]></title>
             <link>javascript:;</link>
@@ -38,6 +30,14 @@
             <pubDate>Wed, 16 Nov 2022 17:16:45 GMT</pubDate>
             <content:encoded><![CDATA[06/10(금) ~ 09/25(일)]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bf8ed8f66dca497994c262a0737dc361.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아메리칸  아티스트가  경고한 미래 (현대카드 DIVE ─ STORAGE)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[06/10(금) ~ 09/25(일)]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/02c3b213da3d475d8bfff3724153415e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
