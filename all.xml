@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Feb 2024 14:07:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Feb 2024 15:08:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[컨템포러리 미디어 & 퍼포먼스 아트의 원형 (현대카드 DIVE ─ STORAGE)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 10 Dec 2023 18:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[12/08(금) ~ 02/04(일)]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ee2a15186cbd4245953538983a6842e8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[컨템포러리 미디어 & 퍼포먼스 아트의 원형 (현대카드 DIVE ─ STORAGE)]]></title>
             <link>javascript:;</link>
@@ -30,14 +38,6 @@
             <pubDate>Sun, 10 Dec 2023 18:11:31 GMT</pubDate>
             <content:encoded><![CDATA[03/23(목)]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b5a33c5c1bd64267b22fedebfa4429cc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자연과 기술이 만난 예술적 경험 (현대카드 DIVE ─ STORAGE)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 10 Dec 2023 18:11:31 GMT</pubDate>
-            <content:encoded><![CDATA[12/08(목) ~ 04/16(일)]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/93961e9b6fc54aa9a70c8e03cadf1d53.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
