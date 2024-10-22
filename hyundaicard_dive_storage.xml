@@ -4,7 +4,7 @@
         <title>현대카드 DIVE ─ STORAGE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Oct 2024 08:16:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Oct 2024 09:13:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sun, 07 Apr 2024 18:11:35 GMT</pubDate>
             <content:encoded><![CDATA[10/17(목) ~ 10/24(목)]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d10e88275a2447039e8feb6311f739ed.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mika Rottenberg: NoNoseKnows]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 18:11:35 GMT</pubDate>
+            <content:encoded><![CDATA[10/23(수) ~ 03/02(일)]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/69e3e12b4a9b44d8a0548eef3582b08b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[기괴한 상상력에 더해진 유머러스한 시선]]></title>
@@ -30,14 +38,6 @@
             <pubDate>Sun, 07 Apr 2024 18:11:35 GMT</pubDate>
             <content:encoded><![CDATA[03/30(토)]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/245d5697777d4f0bb3b9a67d1710b895.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Urban Chronicles]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 18:11:35 GMT</pubDate>
-            <content:encoded><![CDATA[03/28(목) ~ 07/28(일)]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/45d57ca73ba342ae8b068fbced293818.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
