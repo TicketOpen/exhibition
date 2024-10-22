@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Oct 2024 14:12:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Oct 2024 15:13:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Artist talk with 미카 로텐버그 (현대카드 DIVE ─ STORAGE)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 10 Dec 2023 18:11:31 GMT</pubDate>
-            <content:encoded><![CDATA[10/17(목) ~ 10/24(목)]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d10e88275a2447039e8feb6311f739ed.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Mika Rottenberg: NoNoseKnows (현대카드 DIVE ─ STORAGE)]]></title>
             <link>javascript:;</link>
@@ -30,6 +22,14 @@
             <pubDate>Sun, 10 Dec 2023 18:11:31 GMT</pubDate>
             <content:encoded><![CDATA[10/23(수) ~ 03/02(일)]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d45a18a583554ea7abe1ed51d26568fa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Artist talk with 미카 로텐버그 (현대카드 DIVE ─ STORAGE)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 10 Dec 2023 18:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[10/17(목) ~ 10/24(목)]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d10e88275a2447039e8feb6311f739ed.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Artist Talk on Urban Chronicles (현대카드 DIVE ─ STORAGE)]]></title>
