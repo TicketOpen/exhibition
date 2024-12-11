@@ -1,8 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://dive.hyundaicard.com/web/culture/culture.hdc?showType=list&amp;filterPlaceSpace=5</id>
-    <title>현대카드 DIVE ─ STORAGE</title>
-    <updated>2024-12-11T17:11:44.358Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://dive.hyundaicard.com/web/culture/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>현대카드 DIVE ─ STORAGE</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 11 Dec 2024 18:18:43 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Mika Rottenberg: NoNoseKnows]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 11 Dec 2024 18:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[10/23(수) ~ 03/02(일)]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/69e3e12b4a9b44d8a0548eef3582b08b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Artist talk with Mika Rottenberg]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 11 Dec 2024 18:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[10/17(목) ~ 10/24(목)]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d10e88275a2447039e8feb6311f739ed.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Artist Talk on Urban Chronicles]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 11 Dec 2024 18:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[03/30(토)]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/245d5697777d4f0bb3b9a67d1710b895.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Urban Chronicles]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 11 Dec 2024 18:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[03/28(목) ~ 07/28(일)]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/45d57ca73ba342ae8b068fbced293818.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
